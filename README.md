@@ -6,7 +6,5 @@
 
 - Python
 - Go
-- C#
-- Ruby
 - Node.JS
 - SQL/NoSQL
