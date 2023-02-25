@@ -1,5 +1,11 @@
 ### Hi there 👋
 
-### 💪 This is a PYTHON & GO Engineer 💪
+### 💪 This is a Backend & Software Engineer 💪
 
 ### Welcome to my profile.
+
+- Python
+- Go
+- C#
+- Ruby
+- SQL/NoSQL
