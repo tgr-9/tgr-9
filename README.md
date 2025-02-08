@@ -6,7 +6,7 @@ I wish you good luck in the process of visiting my profile.
   
    ![](https://readme-typing-svg.herokuapp.com/?lines=✨Senior%20Front-end%20Developer✨;✨Blockchain%20Developer✨;✨Backend%20Engineer✨;✨React/Next%20Master✨;8%2B%20years%20of%20coding%20experience;📖Always%20studing%20new%20techs📖&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)
     
-  <img src="https://github-profile-trophy.vercel.app/?username=wdev74&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=tgr-9&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
 
 </div>
 
